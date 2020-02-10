@@ -84,7 +84,7 @@ print("y_test shape ", y_test.shape)
 # import numpy as np
 # import matplotlib.pyplot as plt
 
-displayGrayImageAtIndex(x_train, 0)
+displayGrayImageAtIndex(x_train, 1)
 
 # # first_image = mnist.test.images[0]
 # first_image = x_train[0]
@@ -114,15 +114,17 @@ model.fit(x_train, y_train, epochs=5)
 print("evaluate...")
 model.evaluate(x_test,  y_test, verbose=2)
 
-import numpy as np
-import matplotlib.pyplot as plt
+displayGrayImageAtIndex(x_test, 0)
 
-# first_image = mnist.test.images[0]
-first_image = x_test[0]
-first_image = np.array(first_image, dtype='float')
-pixels = first_image.reshape((28, 28))
-plt.imshow(pixels, cmap='gray')
-plt.show()
+# import numpy as np
+# import matplotlib.pyplot as plt
+#
+# # first_image = mnist.test.images[0]
+# first_image = x_test[0]
+# first_image = np.array(first_image, dtype='float')
+# pixels = first_image.reshape((28, 28))
+# plt.imshow(pixels, cmap='gray')
+# plt.show()
 
 print(y_test[0])
 

@@ -82,6 +82,8 @@ from tensorflow import keras
 import numpy as np
 import matplotlib.pyplot as plt
 
+from PyUtils.DisplayUtil import displayColorImageAtIndex
+
 print(tf.__version__)
 
 """## Import the Fashion MNIST dataset
@@ -203,13 +205,14 @@ len(test_labels)
 
 The data must be preprocessed before training the network. If you inspect the first image in the training set, you will see that the pixel values fall in the range of 0 to 255:
 """
+displayColorImageAtIndex(train_images, 0)
 
-plt.figure()
-#plt.imshow(train_images[0], cmap='gray')
-plt.imshow(train_images[0])
-plt.colorbar()
-plt.grid(True)
-plt.show()
+# plt.figure()
+# #plt.imshow(train_images[0], cmap='gray')
+# plt.imshow(train_images[0])
+# plt.colorbar()
+# plt.grid(True)
+# plt.show()
 
 """Scale these values to a range of 0 to 1 before feeding them to the neural network model. To do so, divide the values by 255. It's important that the *training set* and the *testing set* be preprocessed in the same way:"""
 
@@ -219,15 +222,19 @@ test_images = test_images / 255.0
 
 """To verify that the data is in the correct format and that you're ready to build and train the network, let's display the first 25 images from the *training set* and display the class name below each image."""
 
-plt.figure(figsize=(10,10))
-for i in range(25):
-    plt.subplot(5,5,i+1)
-    plt.xticks([])
-    plt.yticks([])
-    plt.grid(False)
-    plt.imshow(train_images[i], cmap=plt.cm.binary)
-    plt.xlabel(class_names[train_labels[i]])
-plt.show()
+from PyUtils.DisplayUtil import displayImageLabelRange
+#displayImageLabelRange(imageData, imageLabels, classNames, startIndex, endIndex)
+displayImageLabelRange(train_images, train_labels, class_names, 0, 25)
+
+# plt.figure(figsize=(10,10))
+# for i in range(25):
+#     plt.subplot(5,5,i+1)
+#     plt.xticks([])
+#     plt.yticks([])
+#     plt.grid(False)
+#     plt.imshow(train_images[i], cmap=plt.cm.binary)
+#     plt.xlabel(class_names[train_labels[i]])
+# plt.show()
 
 """## Build the model
 
