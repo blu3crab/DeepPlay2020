@@ -20,6 +20,8 @@ import matplotlib.pyplot as plt
 # invoke
 #   displayGrayImageAtIndex(x_train, 1)
 #
+import numpy as np
+import matplotlib.pyplot as plt
 def displayGrayImageAtIndex(imageData, imageIndex):
     image = imageData[imageIndex]
     image = np.array(image, dtype='float')
