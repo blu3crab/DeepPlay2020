@@ -2,20 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="626ea439-9ccf-48a5-b1cc-af756b30f3de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PyUtils/FileUtil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyUtils/TimeUtil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-tutorials/advanced.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-tutorials/advanced.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-tutorials/basics.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-tutorials/basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-tutorials/classification (1).ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-tutorials/classification-final.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-tutorials/keras.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-tutorials/keras.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ign_scores.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/museum_visitors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spotify.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaggle-tutorials/DataVizBarChartHeatMap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaggle-tutorials/DataVizLineChartsSpotify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaggle-tutorials/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf-tutorials/text_classification.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf-tutorials/text_classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf-tutorials/text_classification_with_hub.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf-tutorials/text_classification_with_hub.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PyUtils/DisplayUtil.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyUtils/DisplayUtil.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-tutorials/beginner-display.py" beforeDir="false" afterPath="$PROJECT_DIR$/tf-tutorials/beginner-final.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,15 +41,23 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/tf-tutorials" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="DeepPlay2020" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="DeepPlay2020" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Tuc\dev\DeepPlay2020\tf-tutorials" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.classification-final">
-    <configuration name="beginner (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.DataVizBarChartHeatMap">
+    <configuration name="DataVizBarChartHeatMap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DeepPlay2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf-tutorials" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kaggle-tutorials" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf-tutorials/beginner (1).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kaggle-tutorials/DataVizBarChartHeatMap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="beginner-final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DataVizLineChartsSpotify" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DeepPlay2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf-tutorials" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kaggle-tutorials" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Tuc\dev\DeepPlay2020\tf-tutorials\beginner-final.py" />
+      <option name="SCRIPT_NAME" value="D:\Tuc\dev\DeepPlay2020\kaggle-tutorials\DataVizLineChartsSpotify.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,12 +141,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="text_classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepPlay2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../zips/downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../zips/downloads/text_classification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DataVizBarChartHeatMap" />
+        <item itemvalue="Python.text_classification" />
+        <item itemvalue="Python.DataVizLineChartsSpotify" />
         <item itemvalue="Python.classification-final" />
         <item itemvalue="Python.classification" />
-        <item itemvalue="Python.beginner-final" />
-        <item itemvalue="Python.beginner (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -155,40 +183,59 @@
       <option name="presentableId" value="Default" />
       <updated>1580850923518</updated>
     </task>
+    <task id="LOCAL-00001" summary="tf-tutorials basics&#10;PyUtils extractions">
+      <created>1582647781134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582647781134</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tf-tutorials basics&#10;PyUtils extractions">
+      <created>1582647910394</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582647910394</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tf-tutorials basics&#10;PyUtils extractions" />
+    <option name="LAST_COMMIT_MESSAGE" value="tf-tutorials basics&#10;PyUtils extractions" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="260" y="138" key="CommitChangelistDialog2" timestamp="1582647779410">
+    <state x="260" y="138" key="CommitChangelistDialog2" timestamp="1582647909136">
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
-    <state x="260" y="138" key="CommitChangelistDialog2/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1582647779410" />
+    <state x="260" y="138" key="CommitChangelistDialog2/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1582647909136" />
     <state x="752" y="301" key="FileChooserDialogImpl" timestamp="1580911507557">
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
     <state x="752" y="301" key="FileChooserDialogImpl/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1580911507557" />
-    <state width="1148" height="256" key="GridCell.Tab.0.bottom" timestamp="1581531621132">
+    <state width="1122" height="256" key="GridCell.Tab.0.bottom" timestamp="1583189610090">
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
-    <state width="1148" height="256" key="GridCell.Tab.0.bottom/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1581531621132" />
-    <state width="1148" height="256" key="GridCell.Tab.0.center" timestamp="1581531621132">
+    <state width="1122" height="256" key="GridCell.Tab.0.bottom/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1583189610090" />
+    <state width="1122" height="256" key="GridCell.Tab.0.center" timestamp="1583189610090">
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
-    <state width="1148" height="256" key="GridCell.Tab.0.center/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1581531621132" />
-    <state width="1148" height="256" key="GridCell.Tab.0.left" timestamp="1581531621132">
+    <state width="1122" height="256" key="GridCell.Tab.0.center/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1583189610090" />
+    <state width="1122" height="256" key="GridCell.Tab.0.left" timestamp="1583189610090">
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
-    <state width="1148" height="256" key="GridCell.Tab.0.left/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1581531621132" />
-    <state width="1148" height="256" key="GridCell.Tab.0.right" timestamp="1581531621132">
+    <state width="1122" height="256" key="GridCell.Tab.0.left/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1583189610090" />
+    <state width="1122" height="256" key="GridCell.Tab.0.right" timestamp="1583189610090">
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
-    <state width="1148" height="256" key="GridCell.Tab.0.right/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1581531621132" />
-    <state x="473" y="188" key="SettingsEditor" timestamp="1581447130612">
+    <state width="1122" height="256" key="GridCell.Tab.0.right/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1583189610090" />
+    <state x="473" y="188" key="SettingsEditor" timestamp="1582669325309">
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
-    <state x="473" y="188" key="SettingsEditor/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1581447130612" />
-    <state x="198" y="277" key="Vcs.Push.Dialog.v2" timestamp="1582647787824">
+    <state x="473" y="188" key="SettingsEditor/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1582669325309" />
+    <state x="198" y="277" key="Vcs.Push.Dialog.v2" timestamp="1582647912739">
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
-    <state x="198" y="277" key="Vcs.Push.Dialog.v2/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1582647787824" />
+    <state x="198" y="277" key="Vcs.Push.Dialog.v2/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1582647912739" />
   </component>
 </project>
