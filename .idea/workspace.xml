@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="626ea439-9ccf-48a5-b1cc-af756b30f3de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/ign_scores.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/museum_visitors.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/spotify.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kaggle-tutorials/DataVizBarChartHeatMap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kaggle-tutorials/DataVizLineChartsSpotify.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kaggle-tutorials/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-tutorials/text_classification.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-tutorials/text_classification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-tutorials/text_classification_with_hub.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-tutorials/text_classification_with_hub.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyUtils/DisplayUtil.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyUtils/DisplayUtil.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,18 +186,26 @@
       <option name="project" value="LOCAL" />
       <updated>1582647910394</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="kaggle-tutorials - line charts, bar charts, heat maps&#10;tf-tutorials text_classification&#10;PyUtils extractions">
+      <created>1583189686017</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583189686017</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tf-tutorials basics&#10;PyUtils extractions" />
-    <option name="LAST_COMMIT_MESSAGE" value="tf-tutorials basics&#10;PyUtils extractions" />
+    <MESSAGE value="kaggle-tutorials - line charts, bar charts, heat maps&#10;tf-tutorials text_classification&#10;PyUtils extractions" />
+    <option name="LAST_COMMIT_MESSAGE" value="kaggle-tutorials - line charts, bar charts, heat maps&#10;tf-tutorials text_classification&#10;PyUtils extractions" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="260" y="138" key="CommitChangelistDialog2" timestamp="1582647909136">
+    <state x="260" y="138" key="CommitChangelistDialog2" timestamp="1583189685287">
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
-    <state x="260" y="138" key="CommitChangelistDialog2/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1582647909136" />
+    <state x="260" y="138" key="CommitChangelistDialog2/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1583189685287" />
     <state x="752" y="301" key="FileChooserDialogImpl" timestamp="1580911507557">
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
@@ -233,9 +230,9 @@
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
     <state x="473" y="188" key="SettingsEditor/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1582669325309" />
-    <state x="198" y="277" key="Vcs.Push.Dialog.v2" timestamp="1582647912739">
+    <state x="198" y="277" key="Vcs.Push.Dialog.v2" timestamp="1583189688602">
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
-    <state x="198" y="277" key="Vcs.Push.Dialog.v2/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1582647912739" />
+    <state x="198" y="277" key="Vcs.Push.Dialog.v2/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1583189688602" />
   </component>
 </project>
