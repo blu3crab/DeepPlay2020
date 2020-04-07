@@ -22,6 +22,8 @@ cancer_m_data = pd.read_csv(cancer_m_filepath, index_col="Id")
 cancer_b_data.head()
 cancer_m_data.head()
 
+#Seaborn five themes: (1)"darkgrid", (2)"whitegrid", (3)"dark", (4)"white", and (5)"ticks"
+sns.set_style("dark")
 # Histograms for benign and maligant tumors
 sns.distplot(a=cancer_b_data['Area (mean)'], label="Benign", kde=False)
 sns.distplot(a=cancer_m_data['Area (mean)'], label="Malignant", kde=False)

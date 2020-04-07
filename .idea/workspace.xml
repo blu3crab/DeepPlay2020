@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="626ea439-9ccf-48a5-b1cc-af756b30f3de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/kaggle-tutorials/DataVizHistoDensityCancer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaggle-notebooks/snippets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaggle-tutorials/FinalProject.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlots/bar-chart-Figure_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlots/heat-map-Figure_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlots/histo-density-Figure_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlots/histo-density-Figure_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlots/line-chart-Figure_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlots/line-chart-Figure_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlots/line-chart-Figure_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlots/line-chart-Figure_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlots/scatter-Figure_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlots/scatter-Figure_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlots/scatter-Figure_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlots/scatter-Figure_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlots/scatter-Figure_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaggle-tutorials/DataVizHistoDensityCancer.py" beforeDir="false" afterPath="$PROJECT_DIR$/kaggle-tutorials/DataVizHistoDensityCancer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +61,7 @@
       <recent name="D:\Tuc\dev\DeepPlay2020\tf-tutorials" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.DataVizHistoDensityCancer">
+  <component name="RunManager" selected="Python.FinalProject">
     <configuration name="DataVizBarChartHeatMap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DeepPlay2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="text_classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="FinalProject" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DeepPlay2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../zips/downloads" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kaggle-tutorials" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../zips/downloads/text_classification.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kaggle-tutorials/FinalProject.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FinalProject" />
         <item itemvalue="Python.DataVizHistoDensityCancer" />
         <item itemvalue="Python.DataVizScatterPlots" />
         <item itemvalue="Python.DataVizBarChartHeatMap" />
         <item itemvalue="Python.DataVizLineChartsSpotify (1)" />
-        <item itemvalue="Python.text_classification" />
       </list>
     </recent_temporary>
   </component>
@@ -211,22 +226,22 @@
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
     <state x="752" y="301" key="FileChooserDialogImpl/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1580911507557" />
-    <state width="836" height="256" key="GridCell.Tab.0.bottom" timestamp="1584629914218">
+    <state width="835" height="261" key="GridCell.Tab.0.bottom" timestamp="1585857965726">
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
-    <state width="836" height="256" key="GridCell.Tab.0.bottom/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1584629914218" />
-    <state width="836" height="256" key="GridCell.Tab.0.center" timestamp="1584629914218">
+    <state width="835" height="261" key="GridCell.Tab.0.bottom/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1585857965726" />
+    <state width="835" height="261" key="GridCell.Tab.0.center" timestamp="1585857965726">
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
-    <state width="836" height="256" key="GridCell.Tab.0.center/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1584629914218" />
-    <state width="836" height="256" key="GridCell.Tab.0.left" timestamp="1584629914218">
+    <state width="835" height="261" key="GridCell.Tab.0.center/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1585857965726" />
+    <state width="835" height="261" key="GridCell.Tab.0.left" timestamp="1585857965726">
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
-    <state width="836" height="256" key="GridCell.Tab.0.left/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1584629914218" />
-    <state width="836" height="256" key="GridCell.Tab.0.right" timestamp="1584629914218">
+    <state width="835" height="261" key="GridCell.Tab.0.left/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1585857965726" />
+    <state width="835" height="261" key="GridCell.Tab.0.right" timestamp="1585857965726">
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
-    <state width="836" height="256" key="GridCell.Tab.0.right/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1584629914218" />
+    <state width="835" height="261" key="GridCell.Tab.0.right/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1585857965726" />
     <state x="473" y="188" key="SettingsEditor" timestamp="1584047484514">
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
