@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="626ea439-9ccf-48a5-b1cc-af756b30f3de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/kaggle-notebooks/snippets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kaggle-tutorials/FinalProject.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataPlots/bar-chart-Figure_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataPlots/heat-map-Figure_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataPlots/histo-density-Figure_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataPlots/histo-density-Figure_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataPlots/line-chart-Figure_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataPlots/line-chart-Figure_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataPlots/line-chart-Figure_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataPlots/line-chart-Figure_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataPlots/scatter-Figure_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataPlots/scatter-Figure_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataPlots/scatter-Figure_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataPlots/scatter-Figure_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataPlots/scatter-Figure_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kaggle-tutorials/DataVizHistoDensityCancer.py" beforeDir="false" afterPath="$PROJECT_DIR$/kaggle-tutorials/DataVizHistoDensityCancer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
