@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="626ea439-9ccf-48a5-b1cc-af756b30f3de" name="Default Changelist" comment="" />
+    <list default="true" id="626ea439-9ccf-48a5-b1cc-af756b30f3de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/kaggle-tutorials/Exercise_Tf_Programming.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AriseCitizenScientist/arise-US-county-wise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AriseCitizenScientist/arise-US-county-wise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AriseCitizenScientist/kernel3181633f34.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AriseCitizenScientist/kernel78a9319679.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlotsCovid/Montgomery County, Maryland_20200407.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlotsCovid/USA_20200407.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlotsCovid/US_Selected_Counties_20200407.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlotsCovid/areas-confirmed-20200406.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlotsCovid/kaggle-columbus-oh-confirmed-2020-04-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlotsCovid/kaggle-kc-ks-confirmed-2020-04-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlotsCovid/kaggle-king-wa-confirmed-2020-04-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlotsCovid/kaggle-moco-md-confirmed-2020-04-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlotsCovid/kaggle-pittsburg-pa-confirmed-2020-04-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlotsCovid/kaggle-pw-va-confirmed-2020-04-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlotsCovid/kaggle-sno-wa-confirmed-2020-04-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlotsCovid/kaggle-us-confirmed-2020-04-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlotsCovid/kaggle-vabeach-va-confirmed-2020-04-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlotsCovid/kaggle-youngstown-oh-confirmed-2020-04-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlotsCovid/moco-md-20200406.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPlotsCovid/usa-20200406.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,6 +222,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="kaggle-tutorials - line charts, bar charts, heat maps&#10;tf-tutorials text_classification&#10;PyUtils extractions" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="786" y="355" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587572632670">
+      <screen x="0" y="40" width="1680" height="1010" />
+    </state>
+    <state x="786" y="355" key="#com.intellij.fileTypes.FileTypeChooser/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1587572632670" />
     <state x="260" y="138" key="CommitChangelistDialog2" timestamp="1583189685287">
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
