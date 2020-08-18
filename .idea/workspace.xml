@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="626ea439-9ccf-48a5-b1cc-af756b30f3de" name="Default Changelist" comment="" />
+    <list default="true" id="626ea439-9ccf-48a5-b1cc-af756b30f3de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AriseCitizenScientist/usa_county_wise.csv.zip" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -236,5 +239,16 @@
       <screen x="0" y="40" width="1680" height="1010" />
     </state>
     <state x="198" y="277" key="Vcs.Push.Dialog.v2/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1583189688602" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kaggle-tutorials/Exercise-DeepLearningFromScratch.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
