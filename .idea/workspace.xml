@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="626ea439-9ccf-48a5-b1cc-af756b30f3de" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AriseCitizenScientist/usa_county_wise.csv.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,42 +202,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="kaggle-tutorials - line charts, bar charts, heat maps&#10;tf-tutorials text_classification&#10;PyUtils extractions" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="786" y="355" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587572632670">
-      <screen x="0" y="40" width="1680" height="1010" />
+    <state width="835" height="273" key="GridCell.Tab.0.bottom" timestamp="1601587839223">
+      <screen x="-1920" y="-26" width="1920" height="1040" />
     </state>
-    <state x="786" y="355" key="#com.intellij.fileTypes.FileTypeChooser/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1587572632670" />
-    <state x="260" y="138" key="CommitChangelistDialog2" timestamp="1583189685287">
-      <screen x="0" y="40" width="1680" height="1010" />
+    <state width="835" height="273" key="GridCell.Tab.0.bottom/0.40.1920.1040/-1920.-26.1920.1040@-1920.-26.1920.1040" timestamp="1601587839223" />
+    <state width="835" height="273" key="GridCell.Tab.0.center" timestamp="1601587839223">
+      <screen x="-1920" y="-26" width="1920" height="1040" />
     </state>
-    <state x="260" y="138" key="CommitChangelistDialog2/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1583189685287" />
-    <state x="752" y="301" key="FileChooserDialogImpl" timestamp="1580911507557">
-      <screen x="0" y="40" width="1680" height="1010" />
+    <state width="835" height="273" key="GridCell.Tab.0.center/0.40.1920.1040/-1920.-26.1920.1040@-1920.-26.1920.1040" timestamp="1601587839223" />
+    <state width="835" height="273" key="GridCell.Tab.0.left" timestamp="1601587839223">
+      <screen x="-1920" y="-26" width="1920" height="1040" />
     </state>
-    <state x="752" y="301" key="FileChooserDialogImpl/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1580911507557" />
-    <state width="835" height="261" key="GridCell.Tab.0.bottom" timestamp="1585857965726">
-      <screen x="0" y="40" width="1680" height="1010" />
+    <state width="835" height="273" key="GridCell.Tab.0.left/0.40.1920.1040/-1920.-26.1920.1040@-1920.-26.1920.1040" timestamp="1601587839223" />
+    <state width="835" height="273" key="GridCell.Tab.0.right" timestamp="1601587839223">
+      <screen x="-1920" y="-26" width="1920" height="1040" />
     </state>
-    <state width="835" height="261" key="GridCell.Tab.0.bottom/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1585857965726" />
-    <state width="835" height="261" key="GridCell.Tab.0.center" timestamp="1585857965726">
-      <screen x="0" y="40" width="1680" height="1010" />
-    </state>
-    <state width="835" height="261" key="GridCell.Tab.0.center/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1585857965726" />
-    <state width="835" height="261" key="GridCell.Tab.0.left" timestamp="1585857965726">
-      <screen x="0" y="40" width="1680" height="1010" />
-    </state>
-    <state width="835" height="261" key="GridCell.Tab.0.left/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1585857965726" />
-    <state width="835" height="261" key="GridCell.Tab.0.right" timestamp="1585857965726">
-      <screen x="0" y="40" width="1680" height="1010" />
-    </state>
-    <state width="835" height="261" key="GridCell.Tab.0.right/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1585857965726" />
-    <state x="473" y="188" key="SettingsEditor" timestamp="1584047484514">
-      <screen x="0" y="40" width="1680" height="1010" />
-    </state>
-    <state x="473" y="188" key="SettingsEditor/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1584047484514" />
-    <state x="198" y="277" key="Vcs.Push.Dialog.v2" timestamp="1583189688602">
-      <screen x="0" y="40" width="1680" height="1010" />
-    </state>
-    <state x="198" y="277" key="Vcs.Push.Dialog.v2/1680.9.1920.1040/0.40.1680.1010@0.40.1680.1010" timestamp="1583189688602" />
+    <state width="835" height="273" key="GridCell.Tab.0.right/0.40.1920.1040/-1920.-26.1920.1040@-1920.-26.1920.1040" timestamp="1601587839223" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
